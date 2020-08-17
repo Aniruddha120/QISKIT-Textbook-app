@@ -1,5 +1,5 @@
 # QISKIT-Textbook-app
-    It is only for qiskit textbook, which replicates the actual webpage, 
+    It is only for qiskit textbook, which replicates the actual webpage, (Was Made for own purpose)
     
     This simple application can be useful for educational purposes, like:
 
@@ -10,3 +10,4 @@
 5. in underdeveloped countries/poor students where students cant afford to buy high config android phones and where just browser eat up all the ram, than this small app can help them to focus with out interruption
 6. for class projects, teacher can only need to open this app without opening browser
 7. It keeps updating as the webiste gets updated. 
+8. In future version , accesibility for blind people(braille feature) will be tried to added
